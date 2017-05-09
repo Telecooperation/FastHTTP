@@ -1,0 +1,34 @@
+{
+  "info": {
+    "host": "web-00",
+    "pathname": "/web/linked-archive/",
+    "protocol": "http:",
+    "search": "",
+    "hash": "#linked-archive-lan",
+    "href": "http://web-00/web/linked-archive/#linked-archive-lan"
+  },
+  "data": [
+    {
+      "name": "http://web-00/web/linked-archive/images.zip.jpg",
+      "entryType": "resource",
+      "startTime": 162.682695,
+      "duration": 793.193226,
+      "initiatorType": "img",
+      "nextHopProtocol": "http/1.1",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 162.682695,
+      "domainLookupStart": 162.682695,
+      "domainLookupEnd": 162.682695,
+      "connectStart": 162.682695,
+      "connectEnd": 162.682695,
+      "secureConnectionStart": 0,
+      "requestStart": 163.523558,
+      "responseStart": 169.620949,
+      "responseEnd": 955.875921,
+      "transferSize": 5381793,
+      "encodedBodySize": 5381477,
+      "decodedBodySize": 5381477
+    }
+  ]
+}
